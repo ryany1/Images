@@ -1,2 +1,2 @@
-# MarkDown-Images
-Github搭建的markdown图床
+# Images
+notebook/为Github搭建的markdown图床
